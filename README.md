@@ -52,7 +52,15 @@ Dataset cleaning process took place using power query by;<br>
 •THAI CHICKEN PIZZA - large size emerges as the highest revenue-generating pizza with a revenue of $29k and 1365 pieces been sold. With the lowest revenue of $1,000, The GREEK PIZZA - XXL  indicates a relatively lower demand for this particular variety.
 ![top and bottom](https://github.com/anibihakeem/plato-pizza/assets/105971924/57a58ca3-c30a-404b-9214-2969caf30100) <br>
 
-##
+## Recommendations
+•Recognizing the higher demand on weekends, we can focus the marketing efforts and promotions during these days to attract more customers and increase sales. Nevertheless, we can also ensure sufficient staffing and resources during peak hours to meet customer demand efficiently and provide excellent service. We can consider offering lunchtime specials or promotions to attract more customers during the peak hours of 12 PM to 1 PM. This can help increase order volume and overall revenue during this period
+<br>
+•Capitalizing on Popular Pizzas; the top-performing pizzas, such as the Thai Chicken L, Five Cheese, and Four Cheese, indicate a strong customer demand. We can consider promoting these pizzas through targeted marketing campaigns and special offers to further boost their popularity and drive additional revenue
+<br>
+•The bottom-performing pizzas, such as The Greek, Calabrese, Chicken Alfredo, Green Garden, and Mexicana, may require some attention. We can further evaluate their recipes, pricing, and marketing efforts to identify potential areas for improvement. Furthermore, we can consider revising the toppings, exploring customer feedback, or repositioning these pizzas to increase their appeal
+<br>
+•To boost overall revenue, implementing an online ordering system can be a highly effective strategy. The convenience and accessibility of online ordering have become increasingly popular among customers, and tapping into this trend can significantly expand your customer base and increase sales.
+
 
 
 
