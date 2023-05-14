@@ -43,7 +43,7 @@ Dataset cleaning process took place using power query by;<br>
 • Date Table : CalendarTable<br> 
 ![model](https://github.com/anibihakeem/plato-pizza/assets/105971924/25fd3ae5-2591-4046-91f2-01f2d691fe28)
 
-## Data Analysis and Visualization
+## Data Analysis and Insights
 • With a total revenue of $818k from over 20k orders resulting into 50k pizzas been sold, the revenue figures show monthly fluctuations throughout the year. There was an average order value of $38.  The highest revenue was recorded in July (72.6k), followed closely by May ($71.4k). The lowest revenue was in October $64.0k, followed by September $64.2k. There seems to be a pattern of higher revenue during the summer months (May to July) and lower revenue towards the end of the year (September to December). This suggests a possible seasonal influence on the business's revenue with a potential correlation between warmer months and increased business activity. The latter part of the year witnessed a dip in revenue. October marked the lowest point with $64.0k, followed by a marginal increase in November to $70.4k. December concluded the year with revenue amounting to $64k. This downward trend may indicate a seasonal slowdown or external factors impacting consumer behavior and spending habits during the holiday season. Despite the monthly fluctuations, our revenue remains relatively stable within a specific range between $64k and $72.6k. 
 ![metrics](https://github.com/anibihakeem/plato-pizza/assets/105971924/202cc682-1da9-4a92-adef-24e820436a44)
 ![trend](https://github.com/anibihakeem/plato-pizza/assets/105971924/7a032e73-7f00-44a2-a380-81f9e625de76) <br>
@@ -60,6 +60,12 @@ Dataset cleaning process took place using power query by;<br>
 •The bottom-performing pizzas, such as The Greek, Calabrese, Chicken Alfredo, Green Garden, and Mexicana, may require some attention. We can further evaluate their recipes, pricing, and marketing efforts to identify potential areas for improvement. Furthermore, we can consider revising the toppings, exploring customer feedback, or repositioning these pizzas to increase their appeal
 <br>
 •To boost overall revenue, implementing an online ordering system can be a highly effective strategy. The convenience and accessibility of online ordering have become increasingly popular among customers, and tapping into this trend can significantly expand your customer base and increase sales.
+
+## Data Visualization 
+For better interaction, click [here](https://app.powerbi.com/view?r=eyJrIjoiYzM3MWFmN2EtOTM5NC00YjYzLWJhNTItMDFhODU4ZTdmMDNhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) <br>
+Note: Two buttons ("Visuals", "Insights") were added to alternate easily between the visuals and insights of the report <br>
+
+![Plato](https://github.com/anibihakeem/plato-pizza/assets/105971924/8adab0f1-a1ec-410f-aae7-c8c7a830c0c8)
 
 
 
