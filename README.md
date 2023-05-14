@@ -63,7 +63,7 @@ Dataset cleaning process took place using power query by;<br>
 
 ## Data Visualization 
 For better interaction, click [here](https://app.powerbi.com/view?r=eyJrIjoiYzM3MWFmN2EtOTM5NC00YjYzLWJhNTItMDFhODU4ZTdmMDNhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) <br>
-Note: Two buttons ("Visuals", "Insights") were added to alternate easily between the visuals and insights of the report <br>
+Note: Two buttons ("Visuals", "Insights") were added to alternate easily between the visuals and insights of the report. Hence, CTRL + click on button to alternate <br>
 
 ![Plato](https://github.com/anibihakeem/plato-pizza/assets/105971924/8adab0f1-a1ec-410f-aae7-c8c7a830c0c8)
 
