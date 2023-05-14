@@ -15,4 +15,12 @@ The dataset can be found [here](https://drive.google.com/drive/folders/1sT5AReif
 • The **Order Details** table contains the different pizzas served with each order in the Orders table, and their quantities.<br> 
 • The **Pizzas table** contains the size and price for each distinct pizza in the Order Details table, as well as its broader pizza type.<br> 
 • The **Pizza Types** table contains details on the pizza types in the Pizzas table, including their name as it appears on the menu, the category it falls under, and its list of ingredients.<br> 
- 
+
+## Data Cleaning (Extract, Transformation, Loading)
+
+## Data Modelling
+• Fact table: order details table <br> 
+• Dimensional table: Pizzas types, Orders tables<br> 
+• Bridge Table: Orders and Pizza tables<br> 
+• Date Table : CalendarTable<br> 
+![model](https://github.com/anibihakeem/plato-pizza/assets/105971924/25fd3ae5-2591-4046-91f2-01f2d691fe28)
